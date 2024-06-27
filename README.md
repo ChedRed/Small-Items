@@ -10,3 +10,12 @@ A large part of your screen can often be obstructed by your held item of choice,
 ### Questions?
 
 Be sure to make suggestions and report bugs or inconsistencies to the 'Issues' tab!
+
+### What Version?
+If you are using the Modrinth loader, it should automatically select the resource pack for your version!
+
+In case you are not using the Modrinth loader, the letters following the version number determine which pack to install:
+P: 1.5 - 1.13.2
+T1: 18w43a (1.14) - 20w08a (1.15.2)
+T2: 20w09a (Pre-1.16)
+T3: 20w10a (Pre-1.16) - 1.21
